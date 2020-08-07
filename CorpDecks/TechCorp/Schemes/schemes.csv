@@ -1,0 +1,5 @@
+Name,Effect,Actions,Health,Victory Bonus
+Popup Tactics,Player Hand Size is reduced by 1,1,6,Player Hand Size is increased by 1
+Nullifier,The first time you Dig every turn is ineffective,1,7,"The first time you trash Static on your turn, Dig an additional time."
+Scrapper Hostilities,"Whenever a player is made to discard a card, they lose 1 life",1,8,"The first time you gain life on your turn, draw a card."
+Burner Protocol,"Whenever a Static is trashed, Active Player takes 1 damage",2,10,Win the Game
