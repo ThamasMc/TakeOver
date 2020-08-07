@@ -1,0 +1,9 @@
+Name,Effect,Quantity
+Short-Circuit,Modules are ineffective this turn. Crash the Active Player's most recently installed module.,2
+Smokescreen,Move a single trashed Static to the top of the Server deck.,3
+Feedback,All players discard 1 card. Active player loses 1 health.,2
+Refrag,Shuffle the Server.,2
+Corp Review,"Reveal the top card of the Server. If it's Data, move it to the bottom of the deck, and Advance 1.",1
+Innovate,Advance 1,2
+Discord,Put your hand in your discard pile and draw back up to your hand size.,2
+Breakthrough,"Advance 1, activate another action card.",1
