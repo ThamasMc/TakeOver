@@ -1,0 +1,7 @@
+Name,Cost,Type,Effect,Quantity
+Dig,0,Program,Reveal the top card of the Server Deck and resolve its abilities.,9
+Mine,0,Program,Gain 1 Crypto,18
+Filter,0,Module,"You may discard 1 card. If you do, draw a card",1
+Heart of Gold,0,Module,"You may heal a player for 1, you may only activate this if you have gained Crypto this turn.",1
+Redistribute,0,Module,You may discard a card to give all other players 1 Crypto,1
+Slinger,0,Module,"If you have dug, healed a player, and gained a crypto, do each one more time.",1

@@ -1,0 +1,41 @@
+Name,Cost,Type,Effect,Quantity
+Slinger,0,Module,"If you Dig, gain Crypto, and Heal a player during a single turn, do so once more.",1
+Re-run,2,Program,"You may trash this card, if you do, Copy a program with cost 4 or less you played this turn",5
+Stim,2,Program,Target Player gains 1 health,5
+Short-term Investment,2,Program,"You may trash Short-term Investment; if you do, gain 2 crypto",5
+Scrubber,2,Program,"You may trash Scrubber; if you do, trash 1 card in your hand or any player's discard pile",5
+Data Thief,3,Program,"Dig. If you reveal Evidence, draw a card.",5
+Peek,3,Program,"Look at the top three cards of the Server, you may put them back in any order",3
+Spy,3,Program,"Look at the top card of the Server, you may choose to put it on the bottom of the server",2
+Scoop,3,Program,Dig twice,3
+Fund,3,Program,Choose 1- Gain 2 Crypto or draw a card,5
+Shopping,3,Program,"Gain 2 Crypto, you may place the next card you purchase at the top of your deck",5
+Refurbish,3,Program,Place a card from your discard on top of your draw pile,3
+Burn,4,Program,"Dig. You may discard a card in your hand, if you do, dig X + 1 times where X is the cost of that card.",2
+Networker,4,Program,Choose 1- Each player draws a card or each player gets 1 Crypto,2
+Scavenge,4,Program,Trash a card from an Ally's discard pile and gain its effect,2
+Friendship,4,Program,"Choose another player, they draw a card and you gain 2 Crypto",3
+Shields up,4,Program,"Dig Twice. If you reveal a Virus or a Trap, you may trash it, if you do, trash this card.",2
+Philanthropist,5,Program,"Gain 2 Crypto, you may place the next card you purchase in the discard pile of your choice",2
+Moneybags,5,Program,"Gain 3 Crypto, you may cycle two cards in the market",3
+Feast,5,Program,Heal each player for 2 health and each player gains 2 Crypto,1
+Cash Grab,6,Program,"The next time you gain Crypto this turn, draw that many cards",1
+Overclock,6,Program,Draw X cards where X is the number of modules you have installed. Crash half (rounded up) of your installed modules.,1
+Prosper,6,Program,Choose one three times- You gain 1 Crypto. Each other player gains 1 Crypto.,1
+Purge,6,Program,You may trash 1 player's discard pile,1
+Primer,3,Module,You may immediately install a module when purchased,5
+Sifter,3,Module,"Draw one card, then discard one card.",5
+Medkit,3,Module,"You may discard a card. If you do, restore 1 health to target player.",3
+Windowshopper,3,Module,Cycle one card in the Market.,3
+Alpha Stick,3,Module,You may load a Program with cost 3 or less. You may play an loaded program once per turn.,3
+Bank,4,Module,"At the start of your turn, you may discard a card. If you do, gain 2 Crypto.",2
+Clone Chip,4,Module,"When you install this module, choose one you already have installed. The module copies that effect.",1
+Beta Stick,4,Module,You may load a Program with cost 4 or less. You may play a loaded program once per turn.,2
+Hammer,5,Module,"The first time you break a Scheme on your turn, you may Dig up to three times.",2
+Shovel,5,Module,"The first time on your turn that you Dig and reveal Evidence, you may Dig twice more.",3
+Streetdoc,5,Module,"You may choose to discard your entire hand. If you do, heal target player for each card you discarded.",1
+Medkit Prime,6,Module,"You may discard a card. If you do, restore 1 health to each player.",2
+Sifter Prime,6,Module,"Draw two cards, then discard one card.",1
+Gamma Stick,6,Module,You may load a Program with cost 6 or less. You may play a loaded program once per turn.,1
+The Good Stuff,6,Module,"Draw a card, gain 1 Crypto, dig 1, and heal 1 . The Good Stuff can't be trashed or discarded while installed",1
+,,,,103

@@ -1,0 +1,12 @@
+Name,Type,Effect,Quantity
+Trail,Data,Expose 1,15
+Capsule,Data,Place this card in your discard. Assign to a scheme when played. Expose 1.,10
+Leech,Data,"At the end of turn, if this is assigned to a scheme, Active player takes 1 damage. Expose 1.",5
+Databomb,Data,"When revealed from the Server, take 6 damage minus the number of cards in your hand. Expose 2.",5
+Tax,Data,"When revealed from the Server, you may discard two cards. If you do not, put this back at the bottom of the Server. Expose 2",5
+Static,Trap,Trash this card.,35
+Sticky Static,Trap,Place this card in your discard pile. Trash this card when drawn from your deck.,15
+God Virus,Virus,"Place in your discard. At the end of your turn, if this is in your discard pile, trash the most expensive card in your discard. You may discard three cards to put this card at the bottom of the Server. Cannot be trashed.",1
+Drain Virus,Virus,"Place in your discard. To play this card you must discard two cards, if you do so, trash this card. If this card is discarded from your hand, take 1 damage.",2
+White Noise,Trap,Take X damage where X is the number of Static trashed this turn. Put this card at the bottom of the Server.,2
+Interference,Trap,Move up to 3 trashed Static Cards to the top of the Server. Put this card at the bottom of the Server.,5
