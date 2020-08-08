@@ -1,4 +1,4 @@
-﻿# Introduction
+﻿# Incoming Transmission - - -
 Heya chummer, welcome to the fold! We’re always willing to bring on new recruits in the digital war against those filthy Corpos, but there’s a few things you need to know before you get started…
 
 
@@ -22,3 +22,8 @@ But that won’t happen on our watch, will it? That’s why you’re here. That�
 
 
 So take your best shot.
+
+# Getting Started
+Check out the `_HowToPlay` directory to view the instructions on setting up and playing Takeover!
+
+If you'd rather just browse, you can take your time clicking through the different directories to glean tidbits here and there of the design and development process that went into, and continues to go into building TakeOver.
